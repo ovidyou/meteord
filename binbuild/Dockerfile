@@ -1,4 +1,4 @@
-FROM abernix/meteord:base
+FROM ovidyou/meteord:base
 MAINTAINER Jesse Rosenberger
 
 ARG NODE_VERSION
